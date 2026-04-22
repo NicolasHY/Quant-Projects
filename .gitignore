@@ -26,3 +26,6 @@ Thumbs.db
 
 # Documents
 *.pdf
+
+# Data files
+*.parquet
