@@ -29,3 +29,10 @@ Thumbs.db
 
 # Data files
 *.parquet
+
+# HTML
+*.html
+
+# Word documents
+*.doc
+*.docx
